@@ -105,3 +105,6 @@ venv.bak/
 
 # Keynote
 *.key
+
+# DS Store
+.DS_Store
