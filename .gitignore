@@ -103,8 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Keynote
-*.key
-
-# DS Store
+# Project specific
 .DS_Store
+*.key
+images/
